@@ -1,0 +1,15 @@
+# Database backups
+backups/
+*.dump
+*.backup
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+.venv/
